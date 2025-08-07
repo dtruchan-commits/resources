@@ -3,3 +3,6 @@
     cd reacte-ts-basics
     npm install
     npm run dev
+
+# Copy tsconfig.json
+    
