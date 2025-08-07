@@ -5,4 +5,6 @@
     npm run dev
 
 # Copy tsconfig.json
-    
+# Starter Files
+[Unzip Staring Project](https://github.com/academind/react-typescript-course-resources/tree/main/code/03%20React%20TypeScript%20Essentials/01%20Starting%20Project)
+    npm install
